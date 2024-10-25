@@ -30,4 +30,12 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+  .background-dark {
+    @apply bg-zinc-700
+  }
+
+  .primary {
+    color: #107c10;
+  }
 }
